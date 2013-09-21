@@ -199,6 +199,9 @@ THIRD_PARTY_APPS = (
 
     # Asynchronous task queue:
     'djcelery',
+
+    # Lots of useful extensions:
+    'django_extensions',
 )
 
 LOCAL_APPS = (
